@@ -1,0 +1,6 @@
+CandidateID,Skills,Location,SectorInterest,Category,PastParticipation
+1,Python,Patna,IT,OBC,0
+2,Excel,Delhi,Health,SC,1
+3,Python,Excel,Bangalore,IT,GEN,0
+4,Design,Patna,Health,ST,0
+5,Python,Delhi,IT,OBC,1
