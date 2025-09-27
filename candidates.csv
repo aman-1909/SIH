@@ -1,0 +1,5 @@
+id,name,skills,qualification,location_preference,sector_interest
+1,Alice,Python, Data Analysis,B.Tech,Delhi,IT
+2,Bob,Java, Spring, SQL,MCA,Mumbai,Software
+3,Charlie,ML, Python, Statistics,MSc,Delhi,AI
+4,Deepa,Marketing, Communication,MBA,Bangalore,Marketing
